@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04408e34-b6b0-42a8-b93b-6a4dc4b17ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="04408e34-b6b0-42a8-b93b-6a4dc4b17ed6" name="Default Changelist" comment="using cod without static method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Task05">
+  <component name="RunManager" selected="Application.Task04">
     <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task02" />
       <module name="Lesson13" />
@@ -132,8 +129,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task05" />
         <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task05" />
         <item itemvalue="Application.Task06" />
         <item itemvalue="Application.Task03" />
         <item itemvalue="Application.Task02" />
@@ -156,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663056776938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="using cod without static method">
+      <created>1663058380599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663058380599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw" />
+    <MESSAGE value="using cod without static method" />
+    <option name="LAST_COMMIT_MESSAGE" value="using cod without static method" />
   </component>
 </project>
