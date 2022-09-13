@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04408e34-b6b0-42a8-b93b-6a4dc4b17ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +87,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Task06">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Lesson13" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task05">
     <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task02" />
       <module name="Lesson13" />
@@ -110,6 +102,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task04" />
+      <module name="Lesson13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task05" />
+      <module name="Lesson13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task06" />
       <module name="Lesson13" />
@@ -118,17 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Task02" />
       <item itemvalue="Application.Task03" />
       <item itemvalue="Application.Task06" />
+      <item itemvalue="Application.Task04" />
+      <item itemvalue="Application.Task05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.Task06" />
         <item itemvalue="Application.Task03" />
         <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +149,29 @@
       <option name="presentableId" value="Default" />
       <updated>1663048498301</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw">
+      <created>1663056776938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663056776938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw" />
   </component>
 </project>
